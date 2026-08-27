@@ -1,5 +1,4 @@
-ITAMAR AUGUSTO 
-
+# OLA SOU [ITAMA AUGUSTO]
 
 ### 👨‍💻 Quem sou eu
 
