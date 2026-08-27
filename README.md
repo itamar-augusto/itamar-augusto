@@ -28,6 +28,6 @@ Sou um [estudante em gestao da tecnologia da informacao aprendendo a desenvolver
 
 [![WhatsApp] 11987209794
 
-[![Dev.to] 
+[![Dev.to] https://dev.to/augusto_bento
 
 [![Instagram] augustobento1
