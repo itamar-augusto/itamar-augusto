@@ -1,5 +1,4 @@
-# Olá! Eu sou [itamar augusto] 👋
-
+ITAMAR AUGUSTO 
 
 
 ### 👨‍💻 Quem sou eu
@@ -18,13 +17,6 @@ Sou um [estudante em gestao da tecnologia da informacao aprendendo a desenvolver
 
 *  **Outros:** Git, Metodologias Ágeis
 
-
-
-### 🚀 Projetos em Destaque
-
-*  [Nome do Projeto 1](link) - Breve descrição do que foi feito e tecnologias usadas.
-
-*  [Nome do Projeto 2](link) - Breve descrição do que foi feito e tecnologias usadas.
 
 
 
